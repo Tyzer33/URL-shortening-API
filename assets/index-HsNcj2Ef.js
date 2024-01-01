@@ -337,7 +337,7 @@ Error generating stack: `+i.message+`
   div#root {
     ${Y({direction:"column",align:"center"})}
   }
-`,$2="/assets/illustration-working-02i2n0NZ.svg",_2=N.div`
+`,$2=""+new URL("illustration-working-02i2n0NZ.svg",import.meta.url).href,_2=N.div`
   ${Y({direction:"column",align:"center"})}
   gap: 2.625rem;
 

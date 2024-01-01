@@ -66,7 +66,7 @@ Error generating stack: `+i.message+`
 `;function i0(){return y.jsx(Vp,{href:"#",children:"Get Started"})}const Hp=N.div`
   ${Y({direction:"column",align:"center",justify:"center"})}
   background: center / cover no-repeat  ${P.secondary};
-  background-image: url(${o0});
+  /* background-image: ${o0}; */
   height: 18.75rem;
   gap: 1.125rem;
   width: 100%;
@@ -75,7 +75,7 @@ Error generating stack: `+i.message+`
   color: ${P.primaryText};
 
   @media ${B.desktopUp} {
-    background-image: url(${Bp});
+    /* background-image: url(${Bp}); */
   }
 `,Wp=N.h2`
   /* Fonts */
